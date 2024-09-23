@@ -1,0 +1,10 @@
+sns.subscribe(
+    TopicArn=scaling_topic,
+    Protocol='email',
+    Endpoint='rajkumarroy007@yahoo.com'
+)
+sns.subscribe(
+    TopicArn=health_topic,
+    Protocol='email',
+    Endpoint='rajkumarroy007@yahoo.com'
+)
