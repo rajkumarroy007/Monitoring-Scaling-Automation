@@ -13,6 +13,8 @@ Develop a system that automatically manages the lifecycle of a web application h
 ![nginx service   index html](https://github.com/user-attachments/assets/7352c66e-211f-47d2-b74f-2fc7f739773a)
 ![python_script_upload_to_s3_index_html_file](https://github.com/user-attachments/assets/35fc235b-aa71-43c7-be38-440734372fa3)
 ![S3_bucket_rajkumar-my-webapp-static-files ](https://github.com/user-attachments/assets/b069316b-f8a5-4877-a77b-3d949450444e)
+![S3_created by boto3 script](https://github.com/user-attachments/assets/26fe234a-2868-4090-b7af-8b1e49d5568b)
+
 ![s3_index html](https://github.com/user-attachments/assets/0c057b86-ee30-41ea-be8b-e113f36925c7)
 ![SNS Notifications - Amazon SNS - Topics - rajkumar-web-app](https://github.com/user-attachments/assets/1f629376-d1e2-49ac-85c1-a2e1795ea3d8)
 ![SNS_notification_confirmed](https://github.com/user-attachments/assets/e76ec9ea-d2e1-4c4b-8ad1-7d2d0b5f0f34)
